@@ -1,4 +1,5 @@
 {
+  "username": "angelo-ags",
   "widgets": [
     {
       "widgetId": "header",
@@ -11709,5 +11710,10 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1790017955644_3xwf6",
+    "updatedAt": "2026-09-21T19:12:37.282Z"
+  }
 }
