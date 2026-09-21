@@ -11692,7 +11692,8 @@
         "theme": "dark",
         "animationType": "typewriter",
         "animationPreviewKey": 3,
-        "lockAspectRatio": true
+        "lockAspectRatio": true,
+        "branch": "output"
       },
       "locked": false,
       "visible": true,
@@ -11713,7 +11714,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790017955644_3xwf6",
-    "updatedAt": "2026-09-21T19:12:37.282Z"
+    "revision": "rev_1790018238912_nuh7e",
+    "updatedAt": "2026-09-21T19:17:20.373Z"
   }
 }
