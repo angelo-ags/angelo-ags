@@ -11560,7 +11560,10 @@
         "valueColor": "#e6edf3",
         "statsValColor": "#00ff88",
         "dividerColor": "#1a2e22",
-        "showGists": false
+        "showGists": false,
+        "showContactSection": true,
+        "customStatus": "",
+        "customLanguages": "HTML, CSS, J.TS, J.TSX, VUE"
       },
       "locked": false,
       "visible": true,
@@ -11693,7 +11696,7 @@
         "animationType": "typewriter",
         "animationPreviewKey": 3,
         "lockAspectRatio": true,
-        "branch": "output"
+        "branch": "main"
       },
       "locked": false,
       "visible": true,
@@ -11714,7 +11717,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790018238912_nuh7e",
-    "updatedAt": "2026-09-21T19:17:20.373Z"
+    "revision": "rev_1790103570033_7yj2u",
+    "updatedAt": "2026-09-22T18:59:32.077Z"
   }
 }
